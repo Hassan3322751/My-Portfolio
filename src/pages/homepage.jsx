@@ -97,7 +97,7 @@ const Homepage = () => {
 									{INFO.homepage.description}
 								</div>
 								<br />
-								<span><b>Worked on APIs: </b>Instagram-Graph, Youtube, Stripe, JazzCash, Open-Weather and Random-Jokes</span>
+								<br />
 							</div>
 
 							<div className="homepage-first-area-right-side">
