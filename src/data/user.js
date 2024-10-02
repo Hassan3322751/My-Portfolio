@@ -3,7 +3,7 @@ const INFO = {
 		title: "Hassan-Dev Portfolio",
 		name: "Hassan Raza",
 		email: "mianhassan155156@gmail.com",
-		logo: "../logo.png",
+		logo: "logo.png",
 	},
 
 	socials: {
@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer, and api developer.",
 		description:
-			"I am a full stack web developer with expertise in React.js Express.js Node.js MongoDB. I have experience in building scalable, secure and reliable web applications using popular framework and technologies. ",
+			"I am a full stack web developer with expertise in JavaScript Vite React.js Express.js Node.js MongoDB. I have experience in building scalable, secure and reliable web applications using popular framework and technologies. ",
 	},
 
 	about: {
