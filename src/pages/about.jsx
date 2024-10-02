@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="https://www.mayfield.com/wp-content/uploads/2024/07/image-79.png"
 											alt="about"
 											className="about-image"
 										/>

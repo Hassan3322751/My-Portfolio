@@ -13,7 +13,6 @@ import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import Article from "../components/homepage/article";
-import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
@@ -97,13 +96,15 @@ const Homepage = () => {
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description}
 								</div>
+								<br />
+								<span><b>Worked on APIs: </b>Instagram-Graph, Youtube, Stripe, JazzCash, Open-Weather and Random-Jokes</span>
 							</div>
 
 							<div className="homepage-first-area-right-side">
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.png"
+											src="https://res.cloudinary.com/dmprsl1mx/image/upload/v1727881166/20231002_115409-Photoroom_nefr4t.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
