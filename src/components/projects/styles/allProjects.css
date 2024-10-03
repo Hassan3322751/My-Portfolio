@@ -20,8 +20,17 @@
 		width: calc(100% / 2);
 	}
 }
+<<<<<<< HEAD
 @media (max-width: 450px) {
 	.all-projects-project {
 		width: calc(100% / 1);
 	}
 }
+=======
+
+@media (max-width: 450px) {
+	.all-projects-project {
+		width: 100%;
+	}
+}
+>>>>>>> c51bb63a13392d963f697dba1e9ef700d9ec21f8
