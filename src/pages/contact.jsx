@@ -57,7 +57,8 @@ const Contact = () => {
 							periods. Alternatively, you can use the contact form
 							on my website to get in touch. Simply fill out the
 							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
+							possible. 
+							Finally, if you prefer to connect on
 							social media, you can find me on{" "}
 							<a
 								href={INFO.socials.instagram}
@@ -70,6 +71,13 @@ const Contact = () => {
 							followers there, so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
 							to hearing from you!
+							&nbsp;{" "}
+							Let's connect on <b>WhastApp:</b> 
+							&nbsp;{" "}
+							<b>
+								+923095899751
+							</b>
+							&nbsp;{" "}
 						</div>
 					</div>
 
