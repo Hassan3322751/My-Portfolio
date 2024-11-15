@@ -3,6 +3,7 @@ const INFO = {
 		title: "Hassan-Dev Portfolio",
 		name: "Hassan Raza",
 		email: "mianhassan155156@gmail.com",
+		phone: '+923095899751',
 		logo: "https://res.cloudinary.com/dmprsl1mx/image/upload/v1727879366/brgph5zgykgawqnt5yqu.png",
 	},
 
