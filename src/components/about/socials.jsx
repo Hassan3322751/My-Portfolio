@@ -64,7 +64,7 @@ const Socials = () => {
 				<div className="email-wrapper">
 					<a href={`#`}>
 						<div className="social-icon">
-							<FontAwesomeIcon icon={faWhatsapp} style={{fontSize: 'large'}} />
+							<FontAwesomeIcon icon={faWhatsapp} style={{fontSize: 'large'}} bounce/>
 						</div>
 						<div className="social-text">{INFO.main.phone}</div>
 					</a>
@@ -74,7 +74,7 @@ const Socials = () => {
 						rel="noreferrer"
 					>
 						<div className="social-icon">
-							<FontAwesomeIcon icon={faEnvelope} />
+							<FontAwesomeIcon icon={faEnvelope} bounce />
 						</div>
 						<div className="social-text">{INFO.main.email}</div>
 					</a>

@@ -120,6 +120,7 @@ const Homepage = () => {
 								rel="noreferrer"
 							>
 								<FontAwesomeIcon
+									fade
 									icon={faGithub}
 									className="homepage-social-icon"
 								/>
@@ -130,6 +131,7 @@ const Homepage = () => {
 								rel="noreferrer"
 							>
 								<FontAwesomeIcon
+									fade
 									icon={faLinkedin}
 									className="homepage-social-icon"
 								/>
@@ -140,6 +142,7 @@ const Homepage = () => {
 								rel="noreferrer"
 							>
 								<FontAwesomeIcon
+									fade
 									icon={faInstagram}
 									className="homepage-social-icon"
 								/>
@@ -150,6 +153,7 @@ const Homepage = () => {
 								rel="noreferrer"
 							>
 								<FontAwesomeIcon
+									fade
 									icon={faMailBulk}
 									className="homepage-social-icon"
 								/>
